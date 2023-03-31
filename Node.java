@@ -1,4 +1,3 @@
-package problem1;
 public class Node {
     int coefficient;
     int degree;
