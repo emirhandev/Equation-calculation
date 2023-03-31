@@ -1,8 +1,6 @@
-package problem1;
-
 import java.util.Scanner;
 
-public class problem1 {
+public class Main {
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
         int n1,n2,delete;
