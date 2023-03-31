@@ -1,4 +1,3 @@
-package problem1;
 public class MyLinkedList {
   Node first, last;
     public MyLinkedList(){
